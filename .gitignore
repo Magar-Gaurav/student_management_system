@@ -1,0 +1,8 @@
+# environment
+.env
+
+# vritual environment
+venv/
+
+# cache
+__pycache__/
